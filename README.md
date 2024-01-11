@@ -22,7 +22,7 @@
 
 ![image](pic/2.png)
 
-4. Поменяйте условия сборки: если сборка по ветке `master`, то должен происходит `mvn clean deploy`, иначе `mvn clean test`
+4. Поменяйте условия сборки: если сборка по ветке `master`, то должен происходит `mvn clean deploy`, иначе `mvn clean test` 
 
 ![image](pic/3.png)
 
@@ -67,7 +67,7 @@ WelcomerTest.java
 
 13. Убедитесь что сборка самостоятельно запустилась, тесты прошли успешно
 
-![image](pic/7.png.png)
+![image](pic/7.png)
 
 14. Внесите изменения из произвольной ветки `feature/add_reply` в `master` через `Merge`
 
